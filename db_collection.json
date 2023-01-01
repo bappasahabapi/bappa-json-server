@@ -1,0 +1,32 @@
+{
+    "collection": [
+        {
+            "id": 1,
+            "name": "bappa",
+            "email": "b@c.om",
+            "country": "bangladesh",
+            "acc_number": "12345",
+            "branch": "13",
+            "apply_date": "11-11-12" 
+        },
+        {
+            "id": 2,
+            "name": "kappa",
+            "email": "k@c.om",
+            "country": "kangladesh",
+            "acc_number": "35435",
+            "branch": "12",
+            "apply_date": "11-11-12" 
+        },
+        {
+            "id": 3,
+            "name": "cappa",
+            "email": "c@c.om",
+            "country": "Cangladesh",
+            "acc_number": "43543",
+            "branch": "11",
+            "apply_date": "11-11-12" 
+        }
+        
+    ]
+}
